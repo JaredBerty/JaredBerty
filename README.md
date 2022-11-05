@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on ... Learning!
-- 🌱 I’m currently learning ... Python and MatLab!
-- 👯 I’m looking to collaborate on ... Creating cool calculators to help with engineering courses
+- 🌱 I’m currently learning ... Python, Ardunio, and MatLab!
+- 👯 I’m looking to collaborate on ... Creating cool calculators to help with engineering courses or cool arduino stuff
 - 🤔 I’m looking for help with ... same as collaborations!
 - 📫 How to reach me: ... jaredberty1@gmail.com
 
